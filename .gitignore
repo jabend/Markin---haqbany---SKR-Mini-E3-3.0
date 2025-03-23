@@ -158,7 +158,7 @@ __pycache__
 
 # Misc.
 *~
-*.orig
+#*.orig
 *.rej
 *.bak
 *.idea

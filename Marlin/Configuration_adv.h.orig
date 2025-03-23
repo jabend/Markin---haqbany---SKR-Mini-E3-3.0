@@ -1,3 +1,4 @@
+//ORIGINAL FILE FROM HAQBANY
 /**
  * Marlin 3D Printer Firmware
  * Copyright (c) 2024 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
@@ -21,8 +22,7 @@
  */
 #pragma once
 
-//jabend [2023-03-23] commented line
-//#define CONFIG_EXAMPLES_DIR "Ender-3V2 SKR Mini E3 3.0 github.com/haqban"
+#define CONFIG_EXAMPLES_DIR "Ender-3V2 SKR Mini E3 3.0 github.com/haqban"
 // https://github.com/haqbany/Bigtreetouch-SKR-Mini-E3V3.0
 /**
  * Configuration_adv.h
